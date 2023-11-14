@@ -1,8 +1,8 @@
 {
   "name": "netflix-ui",
   "version": "0.1.0",
-  "homepage": "https://Arvin-Coxcomb.github.io/netflix-ui",
-  "private": true,
+  "homepage": "https://arvin-coxcomb.github.io/netflix-ui",
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
